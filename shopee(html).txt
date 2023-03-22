@@ -54,12 +54,3 @@
     
 </body>
 </html>
-
-Css file --
-
-#dashBoard{
-    background-color: yellow;
-}
-
-
-
